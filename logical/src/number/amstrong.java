@@ -1,3 +1,4 @@
+// armstrong
 package number;
 
 class amstrong
