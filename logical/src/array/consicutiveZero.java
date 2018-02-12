@@ -1,3 +1,4 @@
+// pgm to count consecutive zeroes
 package array;
 
 import java.util.Scanner;
